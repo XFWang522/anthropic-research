@@ -1,44 +1,16 @@
 # 达里奥·阿莫迪出席 TechCrunch Disrupt 2023
 
-**日期：** 2023年9月
+**日期：** 2023年9月（9月19–21日）
 
-**平台/场合：** TechCrunch Disrupt 2023
+**平台/场合：** TechCrunch Disrupt 2023，旧金山
 
 **演讲者：** 达里奥·阿莫迪，Anthropic 首席执行官
 
-**时长：** 会议时长不一
+**时长：** 炉边对话
 
-## 背景/语境
+## 中文摘要
 
-达里奥·阿莫迪出席 TechCrunch Disrupt 2023，这是面向初创企业和创新的 premier 技术会议之一。该活动汇聚企业家、投资者和技术领袖，讨论最新发展和趋势。阿莫迪出席时正值 AI  transformative 之年，Anthropic 正作为构建安全和 capable AI 系统的竞赛中 OpenAI 的领先替代者 emerging。讨论聚焦在竞争格局中负责任构建 AI 的独特挑战。
-
-## 要点
-
-- **构建更安全的 AI：** 阿莫迪讨论了 Anthropic 的使命和将安全作为核心设计原则而非事后考虑开发 AI 系统的方法
-
-- **伦理发展：** 强调在整个 AI 开发生命周期——从研究到部署——中伦理考虑的重要性
-
-- **根本挑战：** 用 memorable 类比描述了这项工作的难度：「一只手绑在背后承担有史以来最复杂的软件」——指的是在构建强大 AI 的同时实施 extensive 安全措施、红队测试和对齐研究的约束
-
-- **竞争压力：** 探讨了在竞争市场中快速推进与进行安全评估和负责任部署所需时间之间的 tension
-
-- **Anthropic 的差异化方法：** 突出了 Anthropic 的结构（作为公益公司）和对安全研究的聚焦如何将其与纯商业 AI 实验室区分开来
-
-## 重要引言
-
-- 「我们一只手绑在背后承担有史以来最复杂的软件。」
-
-- 关于构建 AI 的挑战：在构建最复杂软件的同时实施安全措施的约束创造了独特的压力。
-
-## 总结
-
-在 TechCrunch Disrupt 2023 上，达里奥·阿莫迪 articulate 了 AI 开发者面临的核心 tension：构建 extraordinarily 复杂系统的同时保持 rigorous 安全标准。他「一只手绑在背后」的隐喻抓住了 Anthropic 对自己施加的 deliberate 约束——选择比如果安全被 deprioritize 可能的速度更慢、更谨慎地推进。讨论强化了 Anthropic 作为 AI 行业中以安全为导向的替代者的定位，愿意接受竞争劣势以换取他们认为负责任的发展。阿莫迪在主流技术会议上的露面也表明他愿意在这些问题上与 broader 技术社区 engagement，而不仅仅是政策和研究受众。
-
-## 来源
-
-- TechCrunch Disrupt 2023 会议报道
-- TechCrunch 编辑报道
-- Anthropic 公开沟通
+达里奥·阿莫迪出席 TechCrunch Disrupt 2023，讨论 AI 扩展、安全与限制。他称过去 10 年神经网络的规模持续增长，模型「越来越好」，未来 2–4 年的进展将使当前能力「相形见绌」。当被问及 AI 是否存在根本性限制时，他回答：「我不确定有。」他表示对「LLM 不能做某事」的说法持怀疑态度，认为通过不同训练、微调或提示方式可能克服这些障碍。他预测至少未来 3–4 年不会出现收益递减。他讨论宪法 AI、离开 OpenAI 的原因、商业化计划以及 Frontier Model Forum。Anthropic 当时已融资 15 亿美元，随后亚马逊宣布 40 亿美元投资。
 
 ---
 
@@ -48,42 +20,51 @@
 
 # Dario Amodei at TechCrunch Disrupt 2023
 
-**Date:** September 2023
+**Date:** September 2023 (September 19–21)
 
-**Platform/Venue:** TechCrunch Disrupt 2023
+**Platform/Venue:** TechCrunch Disrupt 2023, San Francisco
 
 **Speaker:** Dario Amodei, CEO of Anthropic
 
-**Duration:** Session length varies
+**Duration:** Fireside chat
 
-## Background/Context
+## Full Content (from TechCrunch coverage)
 
-Dario Amodei appeared at TechCrunch Disrupt 2023, one of the premier technology conferences for startups and innovation. The event brings together entrepreneurs, investors, and technology leaders to discuss the latest developments and trends. Amodei's appearance came during a transformative year for AI, with Anthropic emerging as a leading alternative to OpenAI in the race to build safe and capable AI systems. The discussion focused on the unique challenges of building AI responsibly in a competitive landscape.
+### On AI Scaling and Limits
 
-## Key Points
+Amodei explained that he doesn't see any barriers on the horizon for his company's key technology.
 
-- **Building Safer AI:** Amodei discussed Anthropic's mission and approach to developing AI systems with safety as a core design principle, not an afterthought
+"The last 10 years, there's been this remarkable increase in the scale that we've used to train neural nets and we keep scaling them up, and they keep working better and better," he said. "That's the basis of my feeling that what we're going to see in the next 2, 3, 4 years… what we see today is going to pale in comparison to that."
 
-- **Ethical Development:** Emphasized the importance of ethical considerations throughout the AI development lifecycle, from research through deployment
+Asked whether he thought we would see a quadrillion-parameter model next year (rumor has it we will see hundred-trillion-parameter models this year), he said that is outside the expected scaling laws, which he described as roughly the square of compute. But certainly, he said, we can expect models to still grow.
 
-- **The Fundamental Challenge:** Described the difficulty of the undertaking with a memorable analogy: "taking on the most complex software ever attempted with one hand tied behind his back"—referring to the constraint of building powerful AI while simultaneously implementing extensive safety measures, red teaming, and alignment research
+### On Fundamental Limits
 
-- **Competitive Pressure:** Addressed the tension between moving quickly in a competitive market and taking the time necessary for safety evaluations and responsible deployment
+Some researchers have suggested that no matter how large these transformer-based models get, they may still find certain tasks difficult, if not impossible. Yejin Choi pointed out that some LLMs have a lot of trouble multiplying two three-digit numbers, which implies a certain incapacity deep in the heart of these otherwise highly capable models.
 
-- **Anthropic's Differentiated Approach:** Highlighted how Anthropic's structure (as a public benefit corporation) and focus on safety research distinguish it from purely commercial AI labs
+"Do you think that we should be trying to identify those sort of fundamental limits?" asked the moderator.
 
-## Notable Quotes
+"Yeah, so I'm not sure there are any," Amodei responded.
 
-- "We're taking on the most complex software ever attempted with one hand tied behind his back."
+"And also, to the extent that there are, I'm not sure that there's a good way to measure them," he continued. "I think those long years of scaling experience have taught me to be very skeptical, but also skeptical of the claim that an LLM can't do anything. Or that if it wasn't prompted or fine-tuned or trained in a slightly different way, that it wouldn't wouldn't be able to do anything. That's not a claim that LLMs can do anything now, or that they'll be able to do absolutely anything at some point in the future. I'm just skeptical of these hard lists — I'm skeptical of the skeptics."
 
-- On the challenge of building AI: The constraint of building the most complex software while simultaneously implementing safety measures creates unique pressure.
+At the very least, Amodei suggested, we won't see diminishing returns for the next three or four years — event beyond which point in time you'd need more than a quadrillion-parameter AI to predict.
 
-## Summary
+### On Building Safer AI
 
-At TechCrunch Disrupt 2023, Dario Amodei articulated the core tension facing AI developers: building extraordinarily complex systems while maintaining rigorous safety standards. His metaphor of "one hand tied behind his back" captured the deliberate constraints Anthropic imposes on itself—choosing to move more slowly and carefully than would be possible if safety were deprioritized. The discussion reinforced Anthropic's positioning as a safety-focused alternative in the AI industry, willing to accept competitive disadvantages in exchange for what they view as responsible development. Amodei's appearance at a mainstream tech conference also signaled his willingness to engage with the broader technology community on these issues, not just policy and research audiences.
+The broader theme of his appearance focused on Anthropic's approach to building ethical, safe AI that remains useful and profitable. Anthropic uses a unique training method called "constitutional AI" to develop systems aligned with human values.
+
+### On Leaving OpenAI
+
+Amodei explained that he left OpenAI as VP of Research because he felt it was more effective to start a company demonstrating his vision rather than arguing internally about direction. He founded Anthropic over the company's direction, namely the startup's increasingly commercial focus. His focus, and that of his company, is safety first.
+
+### Company Background
+
+Anthropic had raised $1.5 billion to date at the time. Shortly after this appearance, Amazon announced a $4 billion investment in Anthropic. The company's main product is Claude, an AI text generator focused on enterprise customers in legal services, financial services, and professional knowledge work.
 
 ## Sources
 
-- TechCrunch Disrupt 2023 conference coverage
-- TechCrunch editorial coverage
-- Anthropic public communications
+- [TechCrunch: Anthropic's Dario Amodei on AI's limits: 'I'm not sure there are any'](https://techcrunch.com/2023/09/21/anthropics-dario-amodei-on-ais-limits-im-not-sure-there-are-any/)
+- [TechCrunch: Anthropic's Dario Amodei discusses building safer AI and more at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/03/anthropics-dario-amodei-discusses-building-safer-ai-and-more-at-techcrunch-disrupt-2023/)
+- [TechCrunch Video: Anthropic's Dario Amodei on AI Finding its Best Self | TechCrunch Disrupt 2023](https://techcrunch.com/video/anthropics-dario-amodei-on-ai-finding-its-best-self-techcrunch-disrupt-2023/)
+- TechCrunch Disrupt 2023, September 19–21, San Francisco

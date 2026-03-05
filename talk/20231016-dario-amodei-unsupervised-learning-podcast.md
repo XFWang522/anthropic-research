@@ -43,8 +43,25 @@ Unsupervised Learning 集提供了比政策导向露面更 personal 和组织性
 ## 来源
 
 - Unsupervised Learning 播客，第 20 集（2023年10月16日）
-- Jacob Effron / Unsupervised Learning
-- 播客文字稿及音频
+- Jacob Effron / Unsupervised Learning（Redpoint Ventures）
+- 本集为与 The Logan Bartlett Show 的 crossover 特别节目
+- 注：完整文字稿未在公开渠道找到；以下为基于节目说明和公开报道整理的详细内容
+
+---
+
+## 详细内容（基于节目说明与公开来源）
+
+**节目结构：** 1 小时 49 分钟，包含时间戳章节：AI 偏见、国会证词、GPT-3 与 GPT-4 比较、开源模型观点等。
+
+**主要讨论主题：**
+- **OpenAI 经历：** 参与 GPT-2、GPT-3 开发和 RLHF 的历程
+- **扩展与安全：** 扩展与 AI 安全是否交织；是否应暂停 AI 进展
+- **Anthropic 早期：** 亚马逊和 FTX 投资；构建以安全为导向的公司的挑战
+- **负责任扩展政策：** 将部署决策与 demonstrated 安全水平挂钩的框架
+- **国会证词：** 2023 年 7 月参议院司法委员会证词的反思
+- **2024/2025 预测：** 对 AI 能力进展、监管发展、竞争格局的预测
+- **AGI 术语：** 阿莫迪不喜欢「AGI」一词的原因
+- **AI 末日概率：** 滥用与错位导致的灾难性结果概率；整体乐观展望
 
 ---
 

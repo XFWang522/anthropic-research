@@ -8,51 +8,9 @@
 
 **时长：** 完整听证会（多名证人）
 
-## 背景/语境
+## 中文摘要
 
-达里奥·阿莫迪在参议院司法委员会隐私、技术与法律小组委员会作证，作为题为「AI 监管：监管原则」的听证会的一部分。听证会汇聚了领先的 AI 研究人员和高管，向立法者介绍 AI 发展状况和监管框架的需求。阿莫迪与其他 distinguished 证人一起出席，包括 Stuart Russell（加州大学伯克利分校）和 Yoshua Bengio（MILA）。证词发生在大型语言模型 rapid 部署和公众对 AI 能力与风险 awareness 增长后国会对 AI 兴趣 heightened 的时期。
-
-## 要点
-
-- **AI 快速进展：** 阿莫迪呈现了 AI 在多个维度加速进展的数据：
-  - 芯片数量每年增加 2–5 倍
-  - 芯片速度每 1–2 年翻倍
-  - 算法效率约每年翻倍
-  - 这些 compound 因素为 AI 能力创造了指数增长轨迹
-
-- **Anthropic 的安全方法：** 描述了 Anthropic 构建更安全 AI 系统的技术和组织方法：
-  - 宪法 AI：通过显式原则训练 AI 与人类价值观对齐
-  - 红队测试：主动测试系统的有害行为和故障模式
-  - 可解释性研究：努力理解 AI 系统如何内部决策
-
-- **Claude 2 发布：** 引用了 Claude 2 的 recent 发布，Anthropic 的第二代 AI 助手，作为带有安全措施的负责任部署的例子
-
-- **国家安全警告：** 发出了 stark 警告：如果 AI 发展和部署未得到谨慎管理，特别是关于国家行为者和恶意行为者的敌对使用，「2–3 年内对美国国家安全构成 extraordinarily grave 威胁」
-
-- **继续发展的理由：** 论证反对 AI 开发的暂停或暂停，提出三个主要理由：
-  - **收益：** AI 在医学、科学、教育和生产力方面提供 tremendous 潜在收益
-  - **对手：** 减缓美国发展不会阻止敌对国家推进其自身 AI 能力
-  - **AI 帮助缓解风险：** 可能需要更 capable 的 AI 系统来帮助解决 AI 本身创造的风险（例如，用于网络安全的 AI，用于对齐研究的 AI）
-
-- **监管原则：** 倡导 thoughtful 监管，在解决风险的同时不 stifle 创新，强调技术和政策领域都需要专业知识
-
-## 重要引言
-
-- 关于 AI 进展：「芯片数量、芯片速度和算法效率的组合创造了我们尚未 fully grappled 的 compound 效应。」
-
-- 关于国家安全：「如果我们不做好这件事，我们将在 2–3 年内面临对美国国家安全的 extraordinarily grave 威胁。」
-
-- 关于继续发展：「收益太大，对手不会停止，我们可能需要更 capable 的 AI 来解决 AI 创造的问题。」
-
-## 总结
-
-达里奥·阿莫迪的参议院证词呈现了 AI 监管的 nuanced 观点：承认严重的近期风险，同时倡导继续发展。他强调 AI 进展在多个维度同时加速，创造 unprecedented 机遇和 unprecedented 风险。他关于 2–3 年内「extraordinarily grave」国家安全威胁的警告是任何证人中最 urgent 的陈述之一。与此同时，他对反对开发暂停做出了 pragmatic 论证，主张收益、地缘政治竞争以及 AI 帮助缓解自身风险的潜力都 favor 继续推进——但要有适当的 safeguards。证词确立了阿莫迪作为 AI 政策辩论中的关键声音，在技术 credibility 与愿意 engagement 治理问题之间取得平衡。
-
-## 来源
-
-- 美国参议院司法委员会隐私、技术与法律小组委员会听证会文字稿
-- 国会听证会记录，2023年7月25日
-- Anthropic 公开声明及证词
+达里奥·阿莫迪在参议院司法委员会隐私、技术与法律小组委员会作证，作为题为「AI 监管：监管原则」的听证会的一部分。阿莫迪的口头证词聚焦于中期风险——特别是 AI 赋能生物武器滥用的威胁。他警告称，对当前系统进行简单外推，2-3 年内 AI 可能填补所有缺失环节，使更多行为体能够实施大规模生物攻击，构成对美国国家安全的严重威胁。他提出三项建议：保障 AI 供应链安全、建立新模型的测试与审计制度、资助测量与测量研究。阿莫迪还讨论了选举中的 misinformation、deepfakes、watermarking 以及 AI 在诈骗中的滥用等问题。完整听证会记录可在 GovInfo 获取。
 
 ---
 
@@ -70,48 +28,74 @@
 
 **Duration:** Full hearing (multiple witnesses)
 
-## Background/Context
+## Full Oral Testimony of Dario Amodei
 
-Dario Amodei testified before the U.S. Senate Judiciary Subcommittee on Privacy, Technology, and the Law as part of a hearing titled "Oversight of A.I.: Principles for Regulation." The hearing brought together leading AI researchers and executives to inform lawmakers on the state of AI development and the need for regulatory frameworks. Amodei appeared alongside other distinguished witnesses including Stuart Russell (UC Berkeley) and Yoshua Bengio (MILA). The testimony occurred during a period of heightened congressional interest in AI following the rapid deployment of large language models and growing public awareness of AI capabilities and risks.
+**Mr. Amodei:** Chairman Blumenthal, Ranking Member Hawley, and Members of the Committee, thank you for the opportunity to discuss the risks and oversight of AI with you. Anthropic is a public benefit corporation that aims to lead by example in developing and publishing techniques to make AI systems safer and more controllable and by deploying these safety techniques in state-of-the-art models.
 
-## Key Points
+Research conducted by Anthropic includes constitutional AI, a method for training AI systems to behave according to an explicit set of principles; early work on red teaming, or adversarial testing of AI systems to uncover bad behavior; and foundational work in AI interpretability, the science of trying to understand why AI systems behave the way they do. This month, after extensive testing, we were proud to launch our AI model Claude 2 for U.S. users. Claude 2 puts many of these safety improvements into practice. While we're the first to admit that our measures are still far from perfect, we believe they're an important step forward in a race to the top on safety. We hope we can inspire other researchers and companies to do even better.
 
-- **Rapid AI Progress:** Amodei presented data on the accelerating pace of AI advancement across multiple dimensions:
-  - Chip quantity increasing 2x-5x per year
-  - Chip speed doubling every 1-2 years
-  - Algorithmic efficiency doubling approximately yearly
-  - These compounding factors create an exponential growth trajectory for AI capabilities
+AI will help our country accelerate progress in medical research, education, and many other areas. As you said in your opening remarks, the benefits are great. I would not have founded Anthropic if I did not believe AI's benefits could outweigh its risks. However, it is very critical that we address the risks.
 
-- **Anthropic's Safety Approach:** Described Anthropic's technical and organizational approaches to building safer AI systems:
-  - Constitutional AI: Training AI to align with human values through explicit principles
-  - Red teaming: Proactively testing systems for harmful behaviors and failure modes
-  - Interpretability research: Working to understand how AI systems make decisions internally
+My written testimony covers three categories of risks: short-term risks that we face right now, such as bias, privacy, misinformation; medium-term risks related to misuse of AI systems as they become better at science and engineering tasks; and long-term risks related to whether models might threaten humanity as they become truly autonomous, which you also mentioned in your opening testimony.
 
-- **Claude 2 Launch:** Referenced the recent launch of Claude 2, Anthropic's second-generation AI assistant, as an example of responsible deployment with safety measures
+In these short remarks, I want to focus on the medium-term risks, which present an alarming combination of imminence and severity.
 
-- **National Security Warning:** Issued a stark warning about "extraordinarily grave threats to US national security over 2-3 years" if AI development and deployment are not managed carefully, particularly regarding adversarial use by nation-states and malicious actors
+Specifically, Anthropic is concerned that AI could empower a much larger set of actors to misuse biology. Over the last 6 months, Anthropic, in collaboration with world-class biosecurity experts, has conducted an intensive study of the potential for AI to contribute to the misuse of biology.
 
-- **Case for Continued Development:** Argued against a moratorium or pause on AI development, presenting three main rationales:
-  - **Benefits:** AI offers tremendous potential benefits across medicine, science, education, and productivity
-  - **Adversaries:** Slowing U.S. development would not stop adversarial nations from advancing their own AI capabilities
-  - **AI-helps-mitigate-risks:** More capable AI systems may be needed to help address the very risks that AI creates (e.g., AI for cybersecurity, AI for alignment research)
+Today, certain steps in bioweapons production involve knowledge that can't be found on Google or in textbooks and requires a high level of specialized expertise, this being one of the things that currently keeps us safe from attacks.
 
-- **Regulatory Principles:** Advocated for thoughtful regulation that addresses risks without stifling innovation, emphasizing the need for expertise in both technical and policy domains
+We've found that today's AI tools can fill in some of these steps, albeit incompletely and unreliably. In other words, they are showing the first nascent signs of danger. However, a straightforward extrapolation of today's systems to those we expect to see in 2 to 3 years suggests a substantial risk that AI systems will be able to fill in all the missing pieces, enabling many more actors to carry out large-scale biological attacks. We believe this represents a grave threat to U.S. national security.
 
-## Notable Quotes
+We have instituted mitigations against these risks in our own deployed models; briefed a number of U.S. Government officials, all of whom found the results disquieting; and are piloting a responsible disclosure process with other AI companies, to share information on this and similar risks. However, private action is not enough. This risk, and many others like it, requires a systemic policy response.
 
-- On AI progress: "The combination of chip quantity, chip speed, and algorithmic efficiency creates a compounding effect that we have not fully grappled with."
+We recommend three broad classes of actions.
 
-- On national security: "We face extraordinarily grave threats to US national security over 2-3 years if we do not get this right."
+First, the U.S. must secure the AI supply chain in order to maintain its lead while keeping these technologies out of the hands of bad actors. This supply chain runs from semiconductor manufacturing equipment to chips and even the security of AI models stored on the servers of companies like ours.
 
-- On continued development: "The benefits are too great, the adversaries will not stop, and we may need more capable AI to solve the problems that AI creates."
+Second, we recommend a testing and auditing regime for new and more powerful models. Similar to cars or airplanes, AI models of the near future will be powerful machines that possess great utility but can be lethal if designed incorrectly or misused. New AI models should have to pass a rigorous battery of safety tests before they can be released to the public at all, including tests by third parties and national security experts in Government.
 
-## Summary
+Third, we should recognize that the science of testing and auditing for AI systems is in its infancy. It is not currently easy to detect all the bad behaviors an AI system is capable of without first broadly deploying it to users, which is what creates the risk. Thus, it is important to fund both measurement and research on measurement to ensure a testing and auditing regime is actually effective. Funding NIST and the National AI Research Resource are two examples of ways to ensure America leads here.
 
-Dario Amodei's Senate testimony presented a nuanced view of AI oversight: acknowledging serious near-term risks while advocating for continued development. He emphasized that AI progress is accelerating across multiple dimensions simultaneously, creating both unprecedented opportunity and unprecedented risk. His warning about "extraordinarily grave" national security threats within 2-3 years was among the most urgent statements from any witness. At the same time, he made a pragmatic case against a development pause, arguing that benefits, geopolitical competition, and the potential for AI to help mitigate its own risks all favor continued advancement—but with appropriate safeguards. The testimony established Amodei as a key voice in the AI policy debate, balancing technical credibility with willingness to engage on governance questions.
+The three directions above are synergistic. Responsible supply chain policies help give America enough breathing room to impose rigorous standards on our own companies without ceding our national lead to adversaries, and funding measurement, in turn, makes these rigorous standards meaningful. The balance between mitigating AI's risks and maximizing its benefits will be a difficult one, but I'm confident that our country can rise to the challenge. Thank you.
+
+## Key Exchange: Elections and Misinformation
+
+**Chair Blumenthal:** Let me ask each of you what you see as the immediate threats to the integrity of our election system... I'll begin with you, Mr. Amodei.
+
+**Mr. Amodei:** Yes. So, thanks for the question, Senator. You know, I think this is obviously a very timely thing to worry about. You know, when I think of the risks here, my mind goes to misinformation, generation of deepfakes, use of AI systems to manipulate people or produce propaganda or just do anything deceptive.
+
+You know, I can speak a little bit about some of the things we're doing. You know, we train our model with, you know, this method called constitutional AI, where you can lay out explicit principles. It doesn't mean the model will follow the principles, but there are terms in our constitution, which is publicly available, that tells the model not to generate misinformation. The same is true in our business terms of use.
+
+One of the commitments with the White House was to start to watermark content, particularly in the audio and the visual domain. I think that's very helpful but would also benefit from—watermarking gives you the technical capability, you know, to detect that something is AI generated, but requiring it on the side of the law to be labeled, I think, would be something that would be very helpful and timely.
+
+## Key Exchange: Scams and Voice Cloning
+
+**Senator Klobuchar:** Mr. Amodei, one significant concern—I just talked to some people in the banking community about this, small banks, is that they are really worried they're going to see AI used to scam people. You know, pretending to be your mom's voice or your, more likely, granddaughter's voice, actually getting that voice right, making a call for money. How can Congress ensure that companies that create AI platforms cannot be used for those deceptive platforms?
+
+**Mr. Amodei:** Yes, Senator. So, I think these questions about deception and scams are probably closely related to these questions about misinformation. Right?... I think we need both [technical measures and policy measures] and probably, you know, this Congress can do more on the second thing, and the companies and researchers can do more on the first thing... certainly I'd be in favor of strengthened protections there.
+
+## Key Exchange: Google Investment and Anthropic Structure
+
+**Senator Hawley:** Google owns a significant stake in your company, doesn't it?
+
+**Mr. Amodei:** Yes. Google was an investor in Anthropic. They don't control any board seats, but yes, Google is an investor in Anthropic.
+
+**Senator Hawley:** The press has reported it at $300 million in investment, with at least a 10 percent stake in the company. Does that sound broadly correct?
+
+**Mr. Amodei:** That sounds broadly correct.
+
+**Senator Hawley:** So, there's no plans to integrate your Claude, your equivalent of ChatGPT—there's no plans to integrate that with Google Search, for example?
+
+**Mr. Amodei:** That's not occurring at the present time.
+
+## Key Exchange: Transparency and Interpretability
+
+**Senator Klobuchar:** Do you agree with it, too, then [on researcher access]?
+
+**Mr. Amodei:** Yes. I just wanted to say I think transparency is important even as a broader issue. You know, a number of our research efforts go into looking inside to see what happens inside AI systems, why they make the decisions that they make.
 
 ## Sources
 
-- U.S. Senate Judiciary Subcommittee on Privacy, Technology, and the Law hearing transcript
+- U.S. Government Publishing Office: [CHRG-118shrg53503](https://www.govinfo.gov/content/pkg/CHRG-118shrg53503/html/CHRG-118shrg53503.htm) — Full hearing transcript
+- Senate Judiciary Committee: [Written testimony of Dario Amodei](https://www.judiciary.senate.gov/download/2023-07-26-testimony-amodei)
 - Congressional hearing records, July 25, 2023
-- Anthropic public statements and testimony
